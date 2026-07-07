@@ -1,0 +1,66 @@
+./test.py:1:1: F401 'sys' imported but unused
+./test.py:1:12: E401 multiple imports on one line
+./test.py:1:17: E703 statement ends with a semicolon
+./test.py:3:1: E302 expected 2 blank lines, found 1
+./test.py:4:3: E114 indentation is not a multiple of 4 (comment)
+./test.py:4:3: E265 block comment should start with '# '
+./test.py:4:80: E501 line too long (81 > 79 characters)
+./test.py:5:3: E111 indentation is not a multiple of 4
+./test.py:5:13: E225 missing whitespace around operator
+./test.py:5:15: E201 whitespace after '('
+./test.py:5:17: E231 missing whitespace after ','
+./test.py:5:22: E231 missing whitespace after ','
+./test.py:5:26: E202 whitespace before ')'
+./test.py:5:28: E703 statement ends with a semicolon
+./test.py:6:3: E111 indentation is not a multiple of 4
+./test.py:6:16: E225 missing whitespace around operator
+./test.py:6:24: E231 missing whitespace after ':'
+./test.py:6:80: E501 line too long (82 > 79 characters)
+./test.py:7:3: E128 continuation line under-indented for visual indent
+./test.py:7:10: E231 missing whitespace after ':'
+./test.py:7:24: E231 missing whitespace after ','
+./test.py:7:28: E231 missing whitespace after ','
+./test.py:7:32: E231 missing whitespace after ','
+./test.py:7:43: E231 missing whitespace after ','
+./test.py:7:80: E501 line too long (81 > 79 characters)
+./test.py:8:3: E122 continuation line missing indentation or outdented
+./test.py:8:9: E231 missing whitespace after ':'
+./test.py:8:18: E231 missing whitespace after ':'
+./test.py:8:63: E231 missing whitespace after ','
+./test.py:8:74: E231 missing whitespace after ':'
+./test.py:9:3: E128 continuation line under-indented for visual indent
+./test.py:9:5: E231 missing whitespace after ','
+./test.py:9:9: E231 missing whitespace after ','
+./test.py:9:15: E231 missing whitespace after ','
+./test.py:9:25: E231 missing whitespace after ','
+./test.py:10:3: E111 indentation is not a multiple of 4
+./test.py:11:1: E302 expected 2 blank lines, found 0
+./test.py:11:50: E231 missing whitespace after ':'
+./test.py:11:69: E231 missing whitespace after ':'
+./test.py:11:80: E501 line too long (85 > 79 characters)
+./test.py:11:85: E703 statement ends with a semicolon
+./test.py:12:1: E302 expected 2 blank lines, found 0
+./test.py:12:16: E201 whitespace after '('
+./test.py:12:24: E202 whitespace before ')'
+./test.py:13:3: E111 indentation is not a multiple of 4
+./test.py:13:15: E211 whitespace before '('
+./test.py:13:17: E201 whitespace after '('
+./test.py:13:27: E202 whitespace before ')'
+./test.py:14:4: E114 indentation is not a multiple of 4 (comment)
+./test.py:14:4: E265 block comment should start with '# '
+./test.py:15:4: E111 indentation is not a multiple of 4
+./test.py:15:10: E203 whitespace before ':'
+./test.py:15:11: E701 multiple statements on one line (colon)
+./test.py:15:16: E225 missing whitespace around operator
+./test.py:15:19: E702 multiple statements on one line (semicolon)
+./test.py:15:24: E225 missing whitespace around operator
+./test.py:15:28: E225 missing whitespace around operator
+./test.py:15:33: E203 whitespace before ';'
+./test.py:15:34: E702 multiple statements on one line (semicolon)
+./test.py:16:4: E111 indentation is not a multiple of 4
+./test.py:17:12: F841 local variable 'some_string' is assigned to but never used
+./test.py:17:12: E111 indentation is not a multiple of 4
+./test.py:17:12: E117 over-indented
+./test.py:21:3: F706 'return' outside function
+./test.py:21:3: E111 indentation is not a multiple of 4
+./test.py:21:33: W292 no newline at end of file
