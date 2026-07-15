@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Software Eng. Lecture Note"
-permalink: /docs/softwareEng2026
+permalink: /softwareEng2026
 ---
 
 # ソフトウェア工学まとめ
